@@ -6,3 +6,4 @@ The below URL is the image for these two color coding of bunny mesh:
 
 
 https://cloud.githubusercontent.com/assets/14851941/16330741/7bd6c568-3a26-11e6-94ef-7cb8bbd27b26.png
+https://cloud.githubusercontent.com/assets/14851941/16330756/945d2596-3a26-11e6-99a0-380c5d2f248f.png
